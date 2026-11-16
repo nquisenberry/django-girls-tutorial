@@ -1,2 +1,16 @@
-# django-girls-tutorial
-Module 4 Tutorial - Django Introduction
+Django Girls Tutorial Assignment
+Completed sections:
+
+Django Installation
+Your First Django Project
+Django Models
+Django Admin
+Tools Used:
+
+Python
+Django
+SQLite
+VS Code
+Run:
+
+python manage.py runserver
